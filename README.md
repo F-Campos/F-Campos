@@ -17,10 +17,11 @@ src="https://camo.githubusercontent.com/349e2104d6279fcebe8085e44705a49568717458
 
 
 ## Core skills
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)<p align="right"><img alingn="center" src="https://profile-counter.glitch.me/F-Campos/count.svg" /></p>
 
 ## Social Networks
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/fabianodecamposferraz/) [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/fabianoferrazz/)
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f-campos&repo=Bootcamp-Analista-de-Dados-IGTI&theme=tokyonight)](https://github.com/f-campos/Bootcamp-Analista-de-Dados-IGTI)
