@@ -3,9 +3,9 @@
 <p align="center">
 <img 
 align="left" 
-height="440em" 
-width="848" 
-src="https://camo.githubusercontent.com/349e2104d6279fcebe8085e44705a49568717458d565ca08e6b57f51edcfea94/68747470733a2f2f692e696d6775722e636f6d2f6f625268524b662e676966"/  > 
+height="300em" 
+width="760" 
+src="https://user-images.githubusercontent.com/63427036/227615832-2dcada8f-15fe-4279-b8a6-15a365c0ca91.jpg"/  > 
 
 </p>   
 
