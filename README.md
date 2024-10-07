@@ -1,13 +1,4 @@
-<h1 align="center">Welcome!</h1>
-
-<p align="center">
-<img 
-align="left" 
-height="300em" 
-width="760" 
-src="https://user-images.githubusercontent.com/63427036/227615832-2dcada8f-15fe-4279-b8a6-15a365c0ca91.jpg"/  > 
-
-</p>   
+  
 
 
 <div>
