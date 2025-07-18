@@ -15,4 +15,4 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f-campos&repo=Bootcamp-Analista-de-Dados-IGTI&theme=tokyonight)](https://github.com/f-campos/Bootcamp-Analista-de-Dados-IGTI) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f-campos&repo=Do-Zero-ao-Data-Science&theme=tokyonight)](https://github.com/f-campos/Do-Zero-ao-Data-Science)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f-campos&repo=Dashboards-PowerBI&theme=tokyonight)](https://github.com/F-Campos/Dashboards-PowerBI) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f-campos&repo=Do-Zero-ao-Data-Science&theme=tokyonight)](https://github.com/f-campos/Do-Zero-ao-Data-Science)
