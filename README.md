@@ -15,4 +15,6 @@
 
 
 ## Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f-campos&repo=Dashboards-PowerBI&theme=tokyonight)](https://github.com/F-Campos/Dashboards-PowerBI) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f-campos&repo=Do-Zero-ao-Data-Science&theme=tokyonight)](https://github.com/f-campos/Do-Zero-ao-Data-Science)
+
+[![Dashboards PowerBI](https://img.shields.io/badge/📊_Dashboards_PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)](https://github.com/F-Campos/Dashboards-PowerBI)
+[![Do Zero ao Data Science](https://img.shields.io/badge/🐍_Do_Zero_ao_Data_Science-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/f-campos/Do-Zero-ao-Data-Science)
