@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="fundo_git1.jpeg" alt="fundo_git1" width="100%">
+</p>
 
 <h1 align="center">Welcome!</h1>
 
