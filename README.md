@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="fundo_git.png" alt="fundo_git" width="100%">
+</p>
+
 <h1 align="center">Welcome!</h1>
 
 ## Core skills
